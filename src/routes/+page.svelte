@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		hello world<br />Cold Send
 	</h1>
 
 	<h2>
