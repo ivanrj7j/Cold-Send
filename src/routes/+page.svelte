@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		Hello Wold<br />Ivan's changes
 	</h1>
 
 	<h2>
